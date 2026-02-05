@@ -15,7 +15,7 @@ function useWebChat(WebChat) {
 
     let weni_s = document.createElement("link");
     weni_s.rel = "stylesheet";
-    weni_s.href = "https://raw.githubusercontent.com/leonardo1585/demo-analyst/refs/heads/main/webchat-widget.css";
+    weni_s.href = "https://spontaneous-hummingbird-369fea.netlify.app/webchat-widget.css";
     document.head.appendChild(weni_s);
 
     let weni_p = {
